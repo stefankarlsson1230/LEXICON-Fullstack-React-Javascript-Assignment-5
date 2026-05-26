@@ -14,3 +14,5 @@
     - Otherwise print the number
 
 
+*Note - run npm install*
+
